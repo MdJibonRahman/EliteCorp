@@ -1,0 +1,263 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+img{
+    max-width: 100%;
+    height:auto;
+}
+.floatleft{
+    float: left;
+}
+.floatright{
+    float: right;
+}
+.fix{
+    overflow: hidden;
+}
+.header_top_area{
+    
+}
+.main{
+    width: 100%;
+    margin: 0 auto;
+}
+.contact{
+    float:right;
+    padding-top:10px;
+}
+.contact ul{
+    list-style: none;
+    background-color: blanchedalmond;
+}
+.contact ul li{
+    display: inline-block;
+}
+.contact ul li a{
+    text-decoration: none;
+}
+.header{
+    overflow:none;
+    padding-top:30px;
+}
+.logo{
+    float:left;
+}
+.menu{
+    float:right;
+    text-transform:uppercase;
+}
+.menu ul{
+    list-style:none;
+    padding-bottom: 30px;
+}
+.menu ul li{
+    display:inline-block;
+    padding:10px;
+}
+.menu ul li a{
+    text-decoration: none;
+}
+.menu ul li:first-child a{
+    color:darkgoldenrod;
+    border-bottom:1px solid darkgoldenrod;
+}
+.welcome-area{
+    background: url(pic/bg.jpg) no-repeat scroll;
+    background-size:cover;
+    overflow:hidden;
+}
+.welcome-text h1{
+    font-size: 80px;
+    padding-top:150px;
+    color:#fff;
+}
+.welcome-text h1 span.dpt{
+    color:darkgoldenrod;
+    background-color:#fff;
+}
+.icon, .icon1, .icon2, .icon3, .icon4{
+    float:left;
+    padding:20px;
+}
+.service-area{
+    overflow: hidden;
+}
+.container{
+    width: 100%;
+    height: 0 auto;
+}
+.service{
+    display:block;
+    padding:20px;
+    text-align: center;
+}
+.single_service{
+    padding:70px;
+}
+.single_service img{
+    width:30px;
+    height:30px;
+    background:#fff;
+    
+}
+.single_service h3{
+    color:darkgoldenrod;
+}
+
+.feature{
+    text-align: center;
+    padding:10px;
+    font-size:18px;
+}
+.feature h1{
+    color:darkgoldenrod; 
+}
+.feature-pic{
+    padding-left: 10%;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.arrow-left{
+    margin-top: -30%;
+}
+span.arrow-left{
+    margin-top: -150px;
+}
+.arrow-left img{
+    position:relative;
+    border:1px solid darkgoldenrod;
+    height:50px;
+    width:40px;
+    border-radius: 8%;
+    margin-right:80px;
+}
+.arrow-right img{
+    border:1px solid darkgoldenrod;
+    height:50px;
+    width:40px;
+    background-color: darkgoldenrod;
+    border-radius: 8%;
+    margin-left:80px;
+}
+.post-area{
+
+}
+.post{
+    text-align: center;
+    padding:10px;
+    font-size:18px;
+}
+.post h1{
+    color:darkgoldenrod; 
+}
+.posts{
+    padding-bottom: 20px;
+    overflow: hidden;
+}
+.single-post{
+    padding:15px;
+}
+.single-post:first-child{
+    margin-left:180px;
+}
+.single-post h3{
+    color:darkgoldenrod; 
+}
+span.date{
+    opacity: 40%;
+}
+span.read{
+    color:darkgoldenrod;
+}
+span.read a{
+    text-decoration: none;
+}
+.form-area{
+    overflow:hidden;
+}
+.banner-form{
+
+}
+.get-touch{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.get-touch h1{
+    color:darkgoldenrod;
+}
+.banner{
+    margin-left:10%;
+}
+.form{
+    border: 1px solid #efff;
+}
+form fieldset{
+    height:440px;
+    width:600px;
+}
+.form input{
+    background:antiquewhite;
+    height: 30px;
+    width:515px;
+    border:1px solid #dee;
+    border-radius: 5px;
+}
+.form textarea{
+    background:antiquewhite ;
+    border:1px solid #dee;
+    border-radius: 5px;
+}
+span.btn button{
+    background:darkgoldenrod;
+    height:30px;
+    width:150px;
+    border-radius: 5%;
+    margin-left: 370px;
+    color: #fff;
+}
+.link-area{
+    overflow:hidden;
+    background:antiquewhite;
+    padding:80px;
+}
+.link-text{
+    font-size: 18px;
+    margin-left:40px;
+}
+.link-text h1{
+    color:rgb(234, 196, 102);
+}
+span.elite{
+    color: darkgoldenrod;
+}
+.link h2{
+    padding-left:35px;
+}
+.link a{
+    text-decoration: none;
+    padding:35px;
+    color:black;
+}
+.contact-main a{
+    text-decoration: none;
+    color:black;
+}
+.footer-area{
+    overflow:hidden;
+    background: darkgoldenrod;
+    color:#fff;
+    padding:10px;
+}
+.copy{
+    padding:10px;
+}
+.copy p{
+    padding-left:100px;
+}
+.social-icon{
+    padding-left: 620px;
+}
+.social-icon i{
+    padding:10px;
+}
